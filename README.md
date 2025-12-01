@@ -3,7 +3,7 @@
 ## Overview
 This is a secure REST API built using **ASP.NET Core 8.0**, designed to manage customer orders. It implements enterprise-level security using **ASP.NET Core Identity** and **JWT Authentication**.
 
-The system ensures data privacy by isolating records per user—customers can only view, edit, or delete their own orders.
+The system ensures data privacy by isolating records per user—customers can only create, view, edit, or delete their own orders.
 
 ## Tech Stack
 * **Framework:** .NET 8.0 (Web API)
